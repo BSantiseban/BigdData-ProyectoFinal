@@ -1,0 +1,9 @@
+{
+	"name": "santistebanbruno123",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "424c3e23-61c0-4c54-b598-bd730015edad",
+		"tenantId": "ba8f09d1-ff51-42d9-9ea1-3ab3471a219a"
+	}
+}
